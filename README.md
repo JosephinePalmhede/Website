@@ -8,9 +8,9 @@ This is the source code for my personal portfolio website, built with HTML, CSS,
 
 ## Project Structure
 
-─── index.html # Main webpage file
-─── profile-picture.jpg # Photo
-─── README.md 
+```index.html # Main webpage file
+profile-picture.jpg # Profile photo
+README.md # This file```
 
 ## Technologies Used
 
